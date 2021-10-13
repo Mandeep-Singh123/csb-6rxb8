@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,cACE,kBAAmB,CACnB,aAAc,CACd,YAAa,CACb,WAAY,CACZ,UAAW,CACX,eACF","file":"main.ac56828b.chunk.css","sourcesContent":[".Library_View {\r\n  background: #f8f8f8;\r\n  height: 1283px;\r\n  width: 1440px;\r\n  left: -720px;\r\n  top: -642px;\r\n  border-radius: 0px;\r\n}\r\n"]}
